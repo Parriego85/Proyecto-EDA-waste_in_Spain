@@ -1,0 +1,837 @@
+,Country Name,Year,Thousand_tonnes
+0,Belgium,2000,4831.0
+1,Bulgaria,2000,4998.0
+2,Czechia,2000,3434.0
+3,Denmark,2000,3546.0
+4,Germany,2000,52810.0
+5,Estonia,2000,633.0
+6,Ireland,2000,2279.0
+7,Greece,2000,4447.0
+8,Spain,2000,26505.0
+9,France,2000,31232.0
+10,Croatia,2000,1173.0
+11,Italy,2000,28959.0
+12,Cyprus,2000,436.0
+13,Latvia,2000,642.0
+14,Lithuania,2000,1276.0
+15,Luxembourg,2000,285.0
+16,Hungary,2000,4552.0
+17,Malta,2000,208.0
+18,Netherlands,2000,9529.0
+19,Austria,2000,4646.0
+20,Poland,2000,12226.0
+21,Portugal,2000,4705.0
+22,Romania,2000,7961.0
+23,Slovenia,2000,1020.0
+24,Slovakia,2000,1369.0
+25,Finland,2000,2600.0
+26,Sweden,2000,3773.0
+27,Iceland,2000,130.0
+28,Norway,2000,2755.0
+29,Switzerland,2000,4731.0
+30,United Kingdom,2000,33954.0
+31,Bosnia and Herzegovina,2000,0.0
+32,Montenegro,2000,0.0
+33,North Macedonia,2000,0.0
+34,Albania,2000,0.0
+35,Serbia,2000,0.0
+36,Türkiye,2000,30617.0
+37,Kosovo (under United Nations Security Council Resolution 1244/99),2000,0.0
+38,Belgium,2001,4802.0
+39,Bulgaria,2001,4773.0
+40,Czechia,2001,2798.0
+41,Denmark,2001,3519.0
+42,Germany,2001,52075.0
+43,Estonia,2001,509.0
+44,Ireland,2001,2704.0
+45,Greece,2001,4559.0
+46,Spain,2001,26616.0
+47,France,2001,32198.0
+48,Croatia,2001,0.0
+49,Italy,2001,29409.0
+50,Cyprus,2001,456.0
+51,Latvia,2001,713.0
+52,Lithuania,2001,1313.0
+53,Luxembourg,2001,285.0
+54,Hungary,2001,4603.0
+55,Malta,2001,212.0
+56,Netherlands,2001,9550.0
+57,Austria,2001,4634.0
+58,Poland,2001,11109.0
+59,Portugal,2001,4709.0
+60,Romania,2001,7539.0
+61,Slovenia,2001,953.0
+62,Slovakia,2001,1286.0
+63,Finland,2001,2412.0
+64,Sweden,2001,3907.0
+65,Iceland,2001,133.0
+66,Norway,2001,1629.0
+67,Switzerland,2001,4794.0
+68,United Kingdom,2001,34945.0
+69,Bosnia and Herzegovina,2001,0.0
+70,Montenegro,2001,0.0
+71,North Macedonia,2001,0.0
+72,Albania,2001,0.0
+73,Serbia,2001,0.0
+74,Türkiye,2001,31031.0
+75,Kosovo (under United Nations Security Council Resolution 1244/99),2001,0.0
+76,Belgium,2002,4981.0
+77,Bulgaria,2002,4715.0
+78,Czechia,2002,2845.0
+79,Denmark,2002,3568.0
+80,Germany,2002,52772.0
+81,Estonia,2002,553.0
+82,Ireland,2002,2720.0
+83,Greece,2002,4640.0
+84,Spain,2002,26404.0
+85,France,2002,32684.0
+86,Croatia,2002,0.0
+87,Italy,2002,29864.0
+88,Cyprus,2002,465.0
+89,Latvia,2002,793.0
+90,Lithuania,2002,1395.0
+91,Luxembourg,2002,291.0
+92,Hungary,2002,4646.0
+93,Malta,2002,214.0
+94,Netherlands,2002,9684.0
+95,Austria,2002,4914.0
+96,Poland,2002,10509.0
+97,Portugal,2002,4595.0
+98,Romania,2002,8365.0
+99,Slovenia,2002,812.0
+100,Slovakia,2002,1449.0
+101,Finland,2002,2384.0
+102,Sweden,2002,4149.0
+103,Iceland,2002,137.0
+104,Norway,2002,1780.0
+105,Switzerland,2002,4936.0
+106,United Kingdom,2002,35532.0
+107,Bosnia and Herzegovina,2002,0.0
+108,Montenegro,2002,0.0
+109,North Macedonia,2002,0.0
+110,Albania,2002,0.0
+111,Serbia,2002,0.0
+112,Türkiye,2002,30999.0
+113,Kosovo (under United Nations Security Council Resolution 1244/99),2002,0.0
+114,Belgium,2003,4824.0
+115,Bulgaria,2003,4690.0
+116,Czechia,2003,2857.0
+117,Denmark,2003,3618.0
+118,Germany,2003,49622.0
+119,Estonia,2003,567.0
+120,Ireland,2003,2918.0
+121,Greece,2003,4710.0
+122,Spain,2003,27270.0
+123,France,2003,31400.0
+124,Croatia,2003,0.0
+125,Italy,2003,30035.0
+126,Cyprus,2003,481.0
+127,Latvia,2003,695.0
+128,Lithuania,2003,1328.0
+129,Luxembourg,2003,306.0
+130,Hungary,2003,4700.0
+131,Malta,2003,231.0
+132,Netherlands,2003,9504.0
+133,Austria,2003,4932.0
+134,Poland,2003,9925.0
+135,Portugal,2003,4693.0
+136,Romania,2003,7611.0
+137,Slovenia,2003,834.0
+138,Slovakia,2003,1511.0
+139,Finland,2003,2428.0
+140,Sweden,2003,4159.0
+141,Iceland,2003,140.0
+142,Norway,2003,1836.0
+143,Switzerland,2003,4916.0
+144,United Kingdom,2003,35279.0
+145,Bosnia and Herzegovina,2003,0.0
+146,Montenegro,2003,0.0
+147,North Macedonia,2003,0.0
+148,Albania,2003,0.0
+149,Serbia,2003,0.0
+150,Türkiye,2003,31081.0
+151,Kosovo (under United Nations Security Council Resolution 1244/99),2003,0.0
+152,Belgium,2004,5059.0
+153,Bulgaria,2004,4619.0
+154,Czechia,2004,2841.0
+155,Denmark,2004,3757.0
+156,Germany,2004,48434.0
+157,Estonia,2004,606.0
+158,Ireland,2004,3001.0
+159,Greece,2004,4782.0
+160,Spain,2004,25746.0
+161,France,2004,32444.0
+162,Croatia,2004,1311.0
+163,Italy,2004,31150.0
+164,Cyprus,2004,498.0
+165,Latvia,2004,720.0
+166,Lithuania,2004,1260.0
+167,Luxembourg,2004,311.0
+168,Hungary,2004,4592.0
+169,Malta,2004,254.0
+170,Netherlands,2004,9746.0
+171,Austria,2004,4687.0
+172,Poland,2004,9759.0
+173,Portugal,2004,4665.0
+174,Romania,2004,7483.0
+175,Slovenia,2004,969.0
+176,Slovakia,2004,1400.0
+177,Finland,2004,2453.0
+178,Sweden,2004,4143.0
+179,Iceland,2004,147.0
+180,Norway,2004,1903.0
+181,Switzerland,2004,4900.0
+182,United Kingdom,2004,36121.0
+183,Bosnia and Herzegovina,2004,0.0
+184,Montenegro,2004,0.0
+185,North Macedonia,2004,0.0
+186,Albania,2004,0.0
+187,Serbia,2004,0.0
+188,Türkiye,2004,29736.0
+189,Kosovo (under United Nations Security Council Resolution 1244/99),2004,0.0
+190,Belgium,2005,5052.0
+191,Bulgaria,2005,4502.0
+192,Czechia,2005,2954.0
+193,Denmark,2005,3990.0
+194,Germany,2005,46555.0
+195,Estonia,2005,587.0
+196,Ireland,2005,3041.0
+197,Greece,2005,4853.0
+198,Spain,2005,25683.0
+199,France,2005,33347.0
+200,Croatia,2005,1449.0
+201,Italy,2005,31668.0
+202,Cyprus,2005,508.0
+203,Latvia,2005,716.0
+204,Lithuania,2005,1287.0
+205,Luxembourg,2005,313.0
+206,Hungary,2005,4646.0
+207,Malta,2005,253.0
+208,Netherlands,2005,9769.0
+209,Austria,2005,4732.0
+210,Poland,2005,12169.0
+211,Portugal,2005,4745.0
+212,Romania,2005,8173.0
+213,Slovenia,2005,989.0
+214,Slovakia,2005,1468.0
+215,Finland,2005,2506.0
+216,Sweden,2005,4321.0
+217,Iceland,2005,153.0
+218,Norway,2005,1968.0
+219,Switzerland,2005,4940.0
+220,United Kingdom,2005,35121.0
+221,Bosnia and Herzegovina,2005,0.0
+222,Montenegro,2005,0.0
+223,North Macedonia,2005,0.0
+224,Albania,2005,0.0
+225,Serbia,2005,0.0
+226,Türkiye,2005,31352.0
+227,Kosovo (under United Nations Security Council Resolution 1244/99),2005,0.0
+228,Belgium,2006,5115.0
+229,Bulgaria,2006,4387.0
+230,Czechia,2006,3039.0
+231,Denmark,2006,4021.0
+232,Germany,2006,46426.0
+233,Estonia,2006,536.0
+234,Ireland,2006,3385.0
+235,Greece,2006,4927.0
+236,Spain,2006,26209.0
+237,France,2006,33962.0
+238,Croatia,2006,1654.0
+239,Italy,2006,32516.0
+240,Cyprus,2006,522.0
+241,Latvia,2006,760.0
+242,Lithuania,2006,1326.0
+243,Luxembourg,2006,323.0
+244,Hungary,2006,4711.0
+245,Malta,2006,270.0
+246,Netherlands,2006,9761.0
+247,Austria,2006,4933.0
+248,Poland,2006,12235.0
+249,Portugal,2006,4898.0
+250,Romania,2006,8392.0
+251,Slovenia,2006,1036.0
+252,Slovakia,2006,1524.0
+253,Finland,2006,2600.0
+254,Sweden,2006,4461.0
+255,Iceland,2006,171.0
+256,Norway,2006,2140.0
+257,Switzerland,2006,5330.0
+258,United Kingdom,2006,35479.0
+259,Bosnia and Herzegovina,2006,0.0
+260,Montenegro,2006,0.0
+261,North Macedonia,2006,0.0
+262,Albania,2006,0.0
+263,Serbia,2006,1730.0
+264,Türkiye,2006,30082.0
+265,Kosovo (under United Nations Security Council Resolution 1244/99),2006,0.0
+266,Belgium,2007,5243.0
+267,Bulgaria,2007,4172.0
+268,Czechia,2007,3025.0
+269,Denmark,2007,4313.0
+270,Germany,2007,47887.0
+271,Estonia,2007,602.0
+272,Ireland,2007,3398.0
+273,Greece,2007,5002.0
+274,Spain,2007,26154.0
+275,France,2007,34577.0
+276,Croatia,2007,1719.0
+277,Italy,2007,32536.0
+278,Cyprus,2007,540.0
+279,Latvia,2007,861.0
+280,Lithuania,2007,1354.0
+281,Luxembourg,2007,333.0
+282,Hungary,2007,4594.0
+283,Malta,2007,275.0
+284,Netherlands,2007,9922.0
+285,Austria,2007,4951.0
+286,Poland,2007,12264.0
+287,Portugal,2007,4967.0
+288,Romania,2007,8161.0
+289,Slovenia,2007,1060.0
+290,Slovakia,2007,1579.0
+291,Finland,2007,2675.0
+292,Sweden,2007,4460.0
+293,Iceland,2007,174.0
+294,Norway,2007,2312.0
+295,Switzerland,2007,5465.0
+296,United Kingdom,2007,34780.0
+297,Bosnia and Herzegovina,2007,0.0
+298,Montenegro,2007,0.0
+299,North Macedonia,2007,0.0
+300,Albania,2007,0.0
+301,Serbia,2007,2067.0
+302,Türkiye,2007,30366.0
+303,Kosovo (under United Nations Security Council Resolution 1244/99),2007,0.0
+304,Belgium,2008,5141.0
+305,Bulgaria,2008,4486.0
+306,Czechia,2008,3176.0
+307,Denmark,2008,4560.0
+308,Germany,2008,48367.0
+309,Estonia,2008,524.0
+310,Ireland,2008,3224.0
+311,Greece,2008,5077.0
+312,Spain,2008,25317.0
+313,France,2008,34501.0
+314,Croatia,2008,1788.0
+315,Italy,2008,32461.0
+316,Cyprus,2008,573.0
+317,Latvia,2008,752.0
+318,Lithuania,2008,1369.0
+319,Luxembourg,2008,341.0
+320,Hungary,2008,4553.0
+321,Malta,2008,276.0
+322,Netherlands,2008,9868.0
+323,Austria,2008,4997.0
+324,Poland,2008,12194.0
+325,Portugal,2008,5472.0
+326,Romania,2008,8439.0
+327,Slovenia,2008,1095.0
+328,Slovakia,2008,1686.0
+329,Finland,2008,2768.0
+330,Sweden,2008,4476.0
+331,Iceland,2008,208.0
+332,Norway,2008,2324.0
+333,Switzerland,2008,5653.0
+334,United Kingdom,2008,33424.0
+335,Bosnia and Herzegovina,2008,1367.0
+336,Montenegro,2008,0.0
+337,North Macedonia,2008,714.0
+338,Albania,2008,0.0
+339,Serbia,2008,2550.0
+340,Türkiye,2008,28454.0
+341,Kosovo (under United Nations Security Council Resolution 1244/99),2008,0.0
+342,Belgium,2009,5042.0
+343,Bulgaria,2009,4449.0
+344,Czechia,2009,3310.0
+345,Denmark,2009,4206.0
+346,Germany,2009,48466.0
+347,Estonia,2009,452.0
+348,Ireland,2009,2953.0
+349,Greece,2009,5154.0
+350,Spain,2009,25108.0
+351,France,2009,34426.0
+352,Croatia,2009,1743.0
+353,Italy,2009,32107.0
+354,Cyprus,2009,589.0
+355,Latvia,2009,753.0
+356,Lithuania,2009,1206.0
+357,Luxembourg,2009,338.0
+358,Hungary,2009,4312.0
+359,Malta,2009,277.0
+360,Netherlands,2009,9738.0
+361,Austria,2009,4921.0
+362,Poland,2009,12053.0
+363,Portugal,2009,5496.0
+364,Romania,2009,7768.0
+365,Slovenia,2009,1069.0
+366,Slovakia,2009,1654.0
+367,Finland,2009,2562.0
+368,Sweden,2009,4390.0
+369,Iceland,2009,132.0
+370,Norway,2009,2269.0
+371,Switzerland,2009,5461.0
+372,United Kingdom,2009,32507.0
+373,Bosnia and Herzegovina,2009,1362.0
+374,Montenegro,2009,0.0
+375,North Macedonia,2009,726.0
+376,Albania,2009,0.0
+377,Serbia,2009,2636.0
+378,Türkiye,2009,30196.0
+379,Kosovo (under United Nations Security Council Resolution 1244/99),2009,0.0
+380,Belgium,2010,4972.0
+381,Bulgaria,2010,4094.0
+382,Czechia,2010,3334.0
+383,Denmark,2010,0.0
+384,Germany,2010,49237.0
+385,Estonia,2010,406.0
+386,Ireland,2010,2846.0
+387,Greece,2010,5917.0
+388,Spain,2010,23774.0
+389,France,2010,34609.0
+390,Croatia,2010,1630.0
+391,Italy,2010,32440.0
+392,Cyprus,2010,576.0
+393,Latvia,2010,680.0
+394,Lithuania,2010,1253.0
+395,Luxembourg,2010,344.0
+396,Hungary,2010,4033.0
+397,Malta,2010,258.0
+398,Netherlands,2010,9484.0
+399,Austria,2010,4701.0
+400,Poland,2010,12032.0
+401,Portugal,2010,5457.0
+402,Romania,2010,6343.0
+403,Slovenia,2010,1004.0
+404,Slovakia,2010,1719.0
+405,Finland,2010,2519.0
+406,Sweden,2010,4140.0
+407,Iceland,2010,154.0
+408,Norway,2010,2295.0
+409,Switzerland,2010,5565.0
+410,United Kingdom,2010,31955.0
+411,Bosnia and Herzegovina,2010,1276.0
+412,Montenegro,2010,0.0
+413,North Macedonia,2010,721.0
+414,Albania,2010,0.0
+415,Serbia,2010,2650.0
+416,Türkiye,2010,29733.0
+417,Kosovo (under United Nations Security Council Resolution 1244/99),2010,0.0
+418,Belgium,2011,5023.0
+419,Bulgaria,2011,3732.0
+420,Czechia,2011,3358.0
+421,Denmark,2011,4803.0
+422,Germany,2011,50237.0
+423,Estonia,2011,399.0
+424,Ireland,2011,2823.0
+425,Greece,2011,5586.0
+426,Spain,2011,22672.0
+427,France,2011,34790.0
+428,Croatia,2011,1645.0
+429,Italy,2011,31386.0
+430,Cyprus,2011,575.0
+431,Latvia,2011,721.0
+432,Lithuania,2011,1339.0
+433,Luxembourg,2011,345.0
+434,Hungary,2011,3809.0
+435,Malta,2011,259.0
+436,Netherlands,2011,9479.0
+437,Austria,2011,4807.0
+438,Poland,2011,12129.0
+439,Portugal,2011,5178.0
+440,Romania,2011,5216.0
+441,Slovenia,2011,852.0
+442,Slovakia,2011,1679.0
+443,Finland,2011,2719.0
+444,Sweden,2011,4278.0
+445,Iceland,2011,158.0
+446,Norway,2011,2403.0
+447,Switzerland,2011,5478.0
+448,United Kingdom,2011,31066.0
+449,Bosnia and Herzegovina,2011,1307.0
+450,Montenegro,2011,326.0
+451,North Macedonia,2011,735.0
+452,Albania,2011,0.0
+453,Serbia,2011,2710.0
+454,Türkiye,2011,30862.0
+455,Kosovo (under United Nations Security Council Resolution 1244/99),2011,0.0
+456,Belgium,2012,4944.0
+457,Bulgaria,2012,3364.0
+458,Czechia,2012,3233.0
+459,Denmark,2012,4508.0
+460,Germany,2012,49759.0
+461,Estonia,2012,371.0
+462,Ireland,2012,2693.0
+463,Greece,2012,5463.0
+464,Spain,2012,21896.0
+465,France,2012,34484.0
+466,Croatia,2012,1670.0
+467,Italy,2012,29994.0
+468,Cyprus,2012,574.0
+469,Latvia,2012,658.0
+470,Lithuania,2012,1330.0
+471,Luxembourg,2012,346.0
+472,Hungary,2012,3988.0
+473,Malta,2012,257.0
+474,Netherlands,2012,9203.0
+475,Austria,2012,4883.0
+476,Poland,2012,12084.0
+477,Portugal,2012,4766.0
+478,Romania,2012,5044.0
+479,Slovenia,2012,744.0
+480,Slovakia,2012,1657.0
+481,Finland,2012,2738.0
+482,Sweden,2012,4324.0
+483,Iceland,2012,164.0
+484,Norway,2012,2392.0
+485,Switzerland,2012,5576.0
+486,United Kingdom,2012,30413.0
+487,Bosnia and Herzegovina,2012,1303.0
+488,Montenegro,2012,308.0
+489,North Macedonia,2012,786.0
+490,Albania,2012,0.0
+491,Serbia,2012,2620.0
+492,Türkiye,2012,30786.0
+493,Kosovo (under United Nations Security Council Resolution 1244/99),2012,0.0
+494,Belgium,2013,4867.0
+495,Bulgaria,2013,3135.0
+496,Czechia,2013,3228.0
+497,Denmark,2013,4564.0
+498,Germany,2013,49570.0
+499,Estonia,2013,386.0
+500,Ireland,2013,0.0
+501,Greece,2013,5284.0
+502,Spain,2013,21184.0
+503,France,2013,34176.0
+504,Croatia,2013,1721.0
+505,Italy,2013,29573.0
+506,Cyprus,2013,532.0
+507,Latvia,2013,704.0
+508,Lithuania,2013,1280.0
+509,Luxembourg,2013,335.0
+510,Hungary,2013,3738.0
+511,Malta,2013,257.0
+512,Netherlands,2013,8840.0
+513,Austria,2013,4905.0
+514,Poland,2013,11295.0
+515,Portugal,2013,4598.0
+516,Romania,2013,5071.0
+517,Slovenia,2013,853.0
+518,Slovakia,2013,1645.0
+519,Finland,2013,2682.0
+520,Sweden,2013,4371.0
+521,Iceland,2013,167.0
+522,Norway,2013,2518.0
+523,Switzerland,2013,5708.0
+524,United Kingdom,2013,30890.0
+525,Bosnia and Herzegovina,2013,1192.0
+526,Montenegro,2013,310.0
+527,North Macedonia,2013,793.0
+528,Albania,2013,940.0
+529,Serbia,2013,2410.0
+530,Türkiye,2013,30920.0
+531,Kosovo (under United Nations Security Council Resolution 1244/99),2013,0.0
+532,Belgium,2014,4762.0
+533,Bulgaria,2014,3192.0
+534,Czechia,2014,3261.0
+535,Denmark,2014,4558.0
+536,Germany,2014,51102.0
+537,Estonia,2014,470.0
+538,Ireland,2014,2619.0
+539,Greece,2014,5315.0
+540,Spain,2014,20836.0
+541,France,2014,34260.0
+542,Croatia,2014,1637.0
+543,Italy,2014,29652.0
+544,Cyprus,2014,513.0
+545,Latvia,2014,726.0
+546,Lithuania,2014,1270.0
+547,Luxembourg,2014,348.0
+548,Hungary,2014,3795.0
+549,Malta,2014,273.0
+550,Netherlands,2014,8894.0
+551,Austria,2014,4833.0
+552,Poland,2014,10330.0
+553,Portugal,2014,4710.0
+554,Romania,2014,4956.0
+555,Slovenia,2014,892.0
+556,Slovakia,2014,1733.0
+557,Finland,2014,2630.0
+558,Sweden,2014,4295.0
+559,Iceland,2014,175.0
+560,Norway,2014,2175.0
+561,Switzerland,2014,6006.0
+562,United Kingdom,2014,31129.0
+563,Bosnia and Herzegovina,2014,1335.0
+564,Montenegro,2014,298.0
+565,North Macedonia,2014,765.0
+566,Albania,2014,1229.0
+567,Serbia,2014,2130.0
+568,Türkiye,2014,31230.0
+569,Kosovo (under United Nations Security Council Resolution 1244/99),2014,0.0
+570,Belgium,2015,4643.0
+571,Bulgaria,2015,3011.0
+572,Czechia,2015,3337.0
+573,Denmark,2015,4671.0
+574,Germany,2015,51625.0
+575,Estonia,2015,473.0
+576,Ireland,2015,0.0
+577,Greece,2015,5277.0
+578,Spain,2015,21158.0
+579,France,2015,34344.0
+580,Croatia,2015,1654.0
+581,Italy,2015,29524.0
+582,Cyprus,2015,525.0
+583,Latvia,2015,798.0
+584,Lithuania,2015,1300.0
+585,Luxembourg,2015,346.0
+586,Hungary,2015,3712.0
+587,Malta,2015,285.0
+588,Netherlands,2015,8866.0
+589,Austria,2015,4836.0
+590,Poland,2015,10863.0
+591,Portugal,2015,4769.0
+592,Romania,2015,4904.0
+593,Slovenia,2015,926.0
+594,Slovakia,2015,1784.0
+595,Finland,2015,2738.0
+596,Sweden,2015,4422.0
+597,Iceland,2015,195.0
+598,Norway,2015,2187.0
+599,Switzerland,2015,6030.0
+600,United Kingdom,2015,31475.0
+601,Bosnia and Herzegovina,2015,1249.0
+602,Montenegro,2015,310.0
+603,North Macedonia,2015,786.0
+604,Albania,2015,1413.0
+605,Serbia,2015,1840.0
+606,Türkiye,2015,31283.0
+607,Kosovo (under United Nations Security Council Resolution 1244/99),2015,319.0
+608,Belgium,2016,4746.0
+609,Bulgaria,2016,2881.0
+610,Czechia,2016,3580.0
+611,Denmark,2016,4757.0
+612,Germany,2016,52133.0
+613,Estonia,2016,494.0
+614,Ireland,2016,2763.0
+615,Greece,2016,5367.0
+616,Spain,2016,21542.0
+617,France,2016,36891.0
+618,Croatia,2016,1680.0
+619,Italy,2016,30112.0
+620,Cyprus,2016,539.0
+621,Latvia,2016,802.0
+622,Lithuania,2016,1272.0
+623,Luxembourg,2016,474.0
+624,Hungary,2016,3721.0
+625,Malta,2016,292.0
+626,Netherlands,2016,8861.0
+627,Austria,2016,4928.0
+628,Poland,2016,11654.0
+629,Portugal,2016,4891.0
+630,Romania,2016,5143.0
+631,Slovenia,2016,943.0
+632,Slovakia,2016,1890.0
+633,Finland,2016,2768.0
+634,Sweden,2016,4439.0
+635,Iceland,2016,220.0
+636,Norway,2016,3946.0
+637,Switzerland,2016,6050.0
+638,United Kingdom,2016,31710.0
+639,Bosnia and Herzegovina,2016,1244.0
+640,Montenegro,2016,307.0
+641,North Macedonia,2016,0.0
+642,Albania,2016,1300.0
+643,Serbia,2016,1890.0
+644,Türkiye,2016,33763.0
+645,Kosovo (under United Nations Security Council Resolution 1244/99),2016,0.0
+646,Belgium,2017,4672.0
+647,Bulgaria,2017,3080.0
+648,Czechia,2017,5177.0
+649,Denmark,2017,4728.0
+650,Germany,2017,51790.0
+651,Estonia,2017,514.0
+652,Ireland,2017,2768.0
+653,Greece,2017,5415.0
+654,Spain,2017,22018.0
+655,France,2017,37357.0
+656,Croatia,2017,1716.0
+657,Italy,2017,29572.0
+658,Cyprus,2017,537.0
+659,Latvia,2017,798.0
+660,Lithuania,2017,1286.0
+661,Luxembourg,2017,476.0
+662,Hungary,2017,3768.0
+663,Malta,2017,312.0
+664,Netherlands,2017,8792.0
+665,Austria,2017,5018.0
+666,Poland,2017,11969.0
+667,Portugal,2017,5007.0
+668,Romania,2017,5333.0
+669,Slovenia,2017,974.0
+670,Slovakia,2017,2058.0
+671,Finland,2017,2812.0
+672,Sweden,2017,4551.0
+673,Iceland,2017,225.0
+674,Norway,2017,3949.0
+675,Switzerland,2017,5992.0
+676,United Kingdom,2017,30912.0
+677,Bosnia and Herzegovina,2017,1235.0
+678,Montenegro,2017,305.0
+679,North Macedonia,2017,0.0
+680,Albania,2017,1254.0
+681,Serbia,2017,2150.0
+682,Türkiye,2017,34173.0
+683,Kosovo (under United Nations Security Council Resolution 1244/99),2017,410.0
+684,Belgium,2018,4677.0
+685,Bulgaria,2018,2862.0
+686,Czechia,2018,5248.0
+687,Denmark,2018,4715.0
+688,Germany,2018,50260.0
+689,Estonia,2018,535.0
+690,Ireland,2018,2912.0
+691,Greece,2018,5523.0
+692,Spain,2018,22229.0
+693,France,2018,37380.0
+694,Croatia,2018,1768.0
+695,Italy,2018,30165.0
+696,Cyprus,2018,562.0
+697,Latvia,2018,785.0
+698,Lithuania,2018,1301.0
+699,Luxembourg,2018,488.0
+700,Hungary,2018,3729.0
+701,Malta,2018,326.0
+702,Netherlands,2018,8806.0
+703,Austria,2018,5119.0
+704,Poland,2018,12485.0
+705,Portugal,2018,5213.0
+706,Romania,2018,5296.0
+707,Slovenia,2018,1009.0
+708,Slovakia,2018,2254.0
+709,Finland,2018,3041.0
+710,Sweden,2018,4416.0
+711,Iceland,2018,247.0
+712,Norway,2018,3927.0
+713,Switzerland,2018,6012.0
+714,United Kingdom,2018,30786.0
+715,Bosnia and Herzegovina,2018,1244.0
+716,Montenegro,2018,321.0
+717,North Macedonia,2018,855.0
+718,Albania,2018,1325.0
+719,Serbia,2018,2230.0
+720,Türkiye,2018,34533.0
+721,Kosovo (under United Nations Security Council Resolution 1244/99),2018,407.0
+722,Belgium,2019,4779.0
+723,Bulgaria,2019,3080.0
+724,Czechia,2019,5338.0
+725,Denmark,2019,4907.0
+726,Germany,2019,50612.0
+727,Estonia,2019,490.0
+728,Ireland,2019,3086.0
+729,Greece,2019,5613.0
+730,Spain,2019,22262.0
+731,France,2019,37407.0
+732,Croatia,2019,1812.0
+733,Italy,2019,30023.0
+734,Cyprus,2019,571.0
+735,Latvia,2019,840.0
+736,Lithuania,2019,1319.0
+737,Luxembourg,2019,491.0
+738,Hungary,2019,3780.0
+739,Malta,2019,351.0
+740,Netherlands,2019,8806.0
+741,Austria,2019,5220.0
+742,Poland,2019,12753.0
+743,Portugal,2019,5281.0
+744,Romania,2019,5430.0
+745,Slovenia,2019,1052.0
+746,Slovakia,2019,2299.0
+747,Finland,2019,3123.0
+748,Sweden,2019,4611.0
+749,Iceland,2019,0.0
+750,Norway,2019,4151.0
+751,Switzerland,2019,6079.0
+752,United Kingdom,2019,0.0
+753,Bosnia and Herzegovina,2019,1228.0
+754,Montenegro,2019,339.0
+755,North Macedonia,2019,916.0
+756,Albania,2019,1087.0
+757,Serbia,2019,2350.0
+758,Türkiye,2019,35017.0
+759,Kosovo (under United Nations Security Council Resolution 1244/99),2019,451.0
+760,Belgium,2020,8408.0
+761,Bulgaria,2020,2829.0
+762,Czechia,2020,5814.0
+763,Denmark,2020,4744.0
+764,Germany,2020,53322.0
+765,Estonia,2020,509.0
+766,Ireland,2020,3210.0
+767,Greece,2020,0.0
+768,Spain,2020,21989.0
+769,France,2020,36370.0
+770,Croatia,2020,1693.0
+771,Italy,2020,28945.0
+772,Cyprus,2020,543.0
+773,Latvia,2020,909.0
+774,Lithuania,2020,1350.0
+775,Luxembourg,2020,498.0
+776,Hungary,2020,3931.0
+777,Malta,2020,331.0
+778,Netherlands,2020,9304.0
+779,Austria,2020,7438.0
+780,Poland,2020,13117.0
+781,Portugal,2020,5279.0
+782,Romania,2020,5588.0
+783,Slovenia,2020,1024.0
+784,Slovakia,2020,2612.0
+785,Finland,2020,3377.0
+786,Sweden,2020,4460.0
+787,Iceland,2020,225.0
+788,Norway,2020,3247.0
+789,Switzerland,2020,6096.0
+790,United Kingdom,2020,0.0
+791,Bosnia and Herzegovina,2020,1206.0
+792,Montenegro,2020,302.0
+793,North Macedonia,2020,913.0
+794,Albania,2020,1048.0
+795,Serbia,2020,2947.0
+796,Türkiye,2020,34581.0
+797,Kosovo (under United Nations Security Council Resolution 1244/99),2020,456.0
+798,Belgium,2021,8795.0
+799,Bulgaria,2021,0.0
+800,Czechia,2021,5991.0
+801,Denmark,2021,4601.0
+802,Germany,2021,53748.0
+803,Estonia,2021,525.0
+804,Ireland,2021,0.0
+805,Greece,2021,0.0
+806,Spain,2021,22374.0
+807,France,2021,38013.0
+808,Croatia,2021,1767.0
+809,Italy,2021,0.0
+810,Cyprus,2021,570.0
+811,Latvia,2021,869.0
+812,Lithuania,2021,1345.0
+813,Luxembourg,2021,508.0
+814,Hungary,2021,4042.0
+815,Malta,2021,317.0
+816,Netherlands,2021,9034.0
+817,Austria,2021,0.0
+818,Poland,2021,13674.0
+819,Portugal,2021,5311.0
+820,Romania,2021,5768.0
+821,Slovenia,2021,1077.0
+822,Slovakia,2021,2702.0
+823,Finland,2021,3376.0
+824,Sweden,2021,4352.0
+825,Iceland,2021,0.0
+826,Norway,2021,4320.0
+827,Switzerland,2021,6130.0
+828,United Kingdom,2021,0.0
+829,Bosnia and Herzegovina,2021,1229.0
+830,Montenegro,2021,319.0
+831,North Macedonia,2021,896.0
+832,Albania,2021,875.0
+833,Serbia,2021,0.0
+834,Türkiye,2021,0.0
+835,Kosovo (under United Nations Security Council Resolution 1244/99),2021,485.0
